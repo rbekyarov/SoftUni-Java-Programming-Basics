@@ -5,6 +5,7 @@ public class p1Hello_SoftUni {
         System.out.println("Hello SoftUni");
         // write your code here
         //тест
+        //тест2
     }
 }
 
