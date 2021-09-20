@@ -1,4 +1,4 @@
-package Kurs3Първи_стъпки_в_програмирането;
+package L01_First_Steps_In_Coding;
 
 import java.util.Scanner;
 

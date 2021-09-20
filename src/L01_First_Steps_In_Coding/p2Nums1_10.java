@@ -1,4 +1,4 @@
-package Kurs3Първи_стъпки_в_програмирането;
+package L01_First_Steps_In_Coding;
 
 public class p2Nums1_10 {
     public static void main(String[] args) {

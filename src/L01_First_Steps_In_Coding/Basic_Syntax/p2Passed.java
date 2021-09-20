@@ -1,15 +1,13 @@
-package Basic_Syntax;
+package L01_First_Steps_In_Coding.Basic_Syntax;
 
 import java.util.Scanner;
 
-public class p3Passed_or_Failed {
+public class p2Passed {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         double grade = Double.parseDouble(scanner.nextLine());
-        if (grade<3){
-            System.out.println("Failed!");
-        } else{
+        if (grade>=3.00){
             System.out.println("Passed!");
         }
     }
