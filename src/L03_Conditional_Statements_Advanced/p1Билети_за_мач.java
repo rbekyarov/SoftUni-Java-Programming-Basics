@@ -21,7 +21,7 @@
 //• Ако бюджетът НЕ Е достатъчен:
 //o "Not enough money! You need {М} leva." – където М е сумата, която не достига.
 //Сумите трябва да са форматирани с точност до два символа след десетичния знак.
-package L03Conditional_Statements_Advanced;
+package L03_Conditional_Statements_Advanced;
 
 import java.util.Scanner;
 

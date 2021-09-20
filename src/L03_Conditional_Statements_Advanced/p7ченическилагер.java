@@ -32,7 +32,7 @@
 
 
 
-        package L03Conditional_Statements_Advanced;
+        package L03_Conditional_Statements_Advanced;
 
 import java.util.Scanner;
 

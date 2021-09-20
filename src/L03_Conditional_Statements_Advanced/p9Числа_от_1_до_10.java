@@ -1,4 +1,4 @@
-package L03Conditional_Statements_Advanced;
+package L03_Conditional_Statements_Advanced;
 
 public class p9Числа_от_1_до_10 {
 
