@@ -15,6 +15,7 @@ public class p3Лице_на_квадрат {
 
         System.out.print("Square area = ");
         System.out.println(area);
+        //Тест промяна
     }
 }
 
