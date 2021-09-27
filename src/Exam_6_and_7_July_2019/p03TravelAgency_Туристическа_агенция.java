@@ -24,7 +24,7 @@
 */
 
 
-package EXAM.Exam_6_and_7_July_2019;
+package Exam_6_and_7_July_2019;
 
 import java.util.Scanner;
 
